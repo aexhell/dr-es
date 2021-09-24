@@ -1,4 +1,7 @@
+![DR-ES](./.github/logo.png)
+
 # dr-es
+
 ¡Aporta contenido a la traducción de Deltarune! Por favor, si vas a aportar, hazlo: 
 * Con un español neutro.
 * Bien escrito.
